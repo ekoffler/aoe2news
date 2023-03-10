@@ -1,0 +1,9 @@
+-r requirements.txt
+
+sphinx
+
+black
+pylint
+
+pytest
+pytest-cov
