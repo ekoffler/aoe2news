@@ -1,0 +1,5 @@
+python-dotenv==0.21.1
+langcodes[data]
+sqlalchemy
+unidecode
+
